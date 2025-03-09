@@ -1,4 +1,4 @@
-![Header](./github-header-image.png) 
+![Header](./github-header-image1.png) 
 - 🚀 Em transição para Ciência de Dados
 - 📊 Python | SQL | Lookerstudio | Power BI
 - 🎤 Engenheiro de Áudio e Podcaster
