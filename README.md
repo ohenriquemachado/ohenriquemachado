@@ -1,5 +1,8 @@
-## Hi there 👋
-
+![Header](./github-header-image1.png) 
+- 🚀 Em transição para Ciência de Dados
+- 📊 Python | SQL | Lookerstudio | Power BI
+- 🎤 Engenheiro de Áudio e Podcaster
+- 📫 Contato: hredsm@gmail.com
 <!--
 **ohenriquemachado/ohenriquemachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
